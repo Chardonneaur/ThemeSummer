@@ -1,16 +1,26 @@
 {
     "name": "ThemeSummer",
-    "description": "A warm and vibrant summer theme with coral oranges, deep sky blues, and sunny accents. Evokes sunshine and ocean.",
+    "description": "A warm and vibrant summer theme with coral oranges, deep sky blues, and sunny accents.",
     "version": "1.0.0",
     "theme": true,
     "stylesheet": "stylesheets/main.less",
     "require": {
-        "matomo": ">=5.0.0"
+        "matomo": ">=5.0.0-b1,<6.0.0-b1"
     },
     "authors": [
         {
-            "name": "Custom Development"
+            "name": "Chardonneaur",
+            "homepage": "https://github.com/Chardonneaur"
         }
     ],
-    "license": "GPL v3+"
+    "license": "GPL-3.0+",
+    "homepage": "https://github.com/Chardonneaur/ThemeSummer",
+    "keywords": [
+        "theme",
+        "summer",
+        "orange",
+        "blue",
+        "warm"
+    ],
+    "category": "theme"
 }
