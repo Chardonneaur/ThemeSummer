@@ -1,0 +1,16 @@
+{
+    "name": "ThemeSummer",
+    "description": "A warm and vibrant summer theme with coral oranges, deep sky blues, and sunny accents. Evokes sunshine and ocean.",
+    "version": "1.0.0",
+    "theme": true,
+    "stylesheet": "stylesheets/main.less",
+    "require": {
+        "matomo": ">=5.0.0"
+    },
+    "authors": [
+        {
+            "name": "Custom Development"
+        }
+    ],
+    "license": "GPL v3+"
+}
